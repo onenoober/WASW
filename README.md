@@ -1,1 +1,1 @@
-# WASW-Wavelet-Adaptive-Subband-Weighting-Network
+# WASW:Wavelet-Adaptive-Subband-Weighting-Network
